@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "results": {
+      ".read": true,
+      ".write": true
+    },
+    "lobbies": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
